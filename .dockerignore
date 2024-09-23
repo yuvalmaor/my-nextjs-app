@@ -1,0 +1,38 @@
+# Git files
+.git
+.gitignore
+
+# Node modules
+node_modules/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Build output
+.next/
+out/
+dist/
+build/
+
+# Temporary files
+temp/
+
+# OS generated files
+.DS_Store
+
+# Docker files (optional)
+.dockerignore
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test and coverage directories
+coverage/
+__tests__/
